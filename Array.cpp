@@ -1,3 +1,5 @@
+// Array
+// Cost of groceries
 #include <iostream>
 #include <vector>
 using namespace std;
