@@ -1,6 +1,6 @@
 # **GNCSGI Competitive Coding Challenges**
 
-_A repository containing solutions to various competitive programming challenges.
+_A repository containing solutions to various competitive programming challenges._
 
 ## 🔹 **Overview**
 This project consists of solutions to **algorithmic problems** from platforms like **LeetCode, CodeChef, Codeforces, and HackerRank**.
